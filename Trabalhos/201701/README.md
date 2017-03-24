@@ -56,7 +56,7 @@ O trabalho deve ser desenvolvido em uma linguagem que possa ser executada em amb
 
 # Entrega
 Você deve entregar o código-fonte da rede neural e um artigo explicando:
-- Configuração e instalação do sistema
+- Roteiro de configuração e instalação do sistema
 - Topologia da Rede
 - Quantidade de neurônios em cada camada
 - Função de Ativação escolhida
