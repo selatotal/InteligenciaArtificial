@@ -1,7 +1,7 @@
 # Definição do Trabalho
 Você deverá criar um programa para verificar a qualidade de um vinho, baseado em suas características utilizando uma Rede Neural Multi-Layer Perceptron.
 
-O conjunto de testes deve ser buscado de https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/.
+O conjunto de testes deve ser buscado de https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/ (ou de https://github.com/selatotal/InteligenciaArtificial/tree/master/Trabalhos/201701).
 Este é um repositório de arquivos de dados utilizados para treinamentos de Aprendizado de Máquina pela Universidade da Califórnia.
 Este arquivo possui a avaliação de 4.898 vinhos (tintos e brancos) em formato CSV. Você deve usar o conteúdo dos dois arquivos (winequality-red.csv e winequality-white.csv) como um arquivo único. O arquivo com a extensão .names possui a descrição de cada um dos campos.
 
